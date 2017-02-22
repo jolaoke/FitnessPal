@@ -14,7 +14,7 @@ To change the port Apache uses, click the 'Config' button under actions for Apac
 In that file, press Ctrl+F and replace any instance where it says 80 with any different number, as long as that port is not used by another program (I used 8080).
 Close the file and try run the servers again.
 
-Download the FitnessPal.zip file.
+Download the FitnessPal.zip file, which contains the source code.
 Unzip that file in the 'htdocs' folder in the xampp folder on your system. If you used the default installation location, the path of that folder should be C:\xampp\htdocs
 Therefore, the path for the index.php file should be C:\xampp\htdocs\FitnessPal\index.php
 
